@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
-  "id": "bbs",
+  "id": "mifb",
   "version": "${version}",
-  "name": "Better Block Sounds",
-  "description": "Block sounds, but better!",
+  "name": "Minecraft Isn't For Babies",
+  "description": "A mod to prevent Baby Zombies from spawning",
   "authors": [
     "Ordana"
   ],
   "contact": {
-    "homepage": "https://www.curseforge.com/minecraft/mc-mods/better-block-sounds",
-    "sources": "https://github.com/AstralOrdana/BetterBlockSounds"
+    "homepage": "https://modrinth.com/mod/mifb",
+    "sources": "https://github.com/AstralOrdana/mifb"
   },
   "license": "LGPLv3",
   "icon": "icon.png",
   "environment": "*",
   "entrypoints": {},
   "mixins": [
-    "bbs.mixins.json"
+    "mifb.mixins.json"
   ],
   "depends": {
     "minecraft": ">=1.20"

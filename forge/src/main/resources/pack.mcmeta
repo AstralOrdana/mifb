@@ -1,13 +1,13 @@
 {
   "pack": {
-    "pack_format": 12,
+    "pack_format": 15,
     "description": [
       {
-        "text": "Better Block Sounds",
+        "text": "Minecraft Isn't For Babies",
         "color": "#1eb2bc"
       },
       {
-        "text": " - Block sounds but better\nCreated by ",
+        "text": " - MIFB\nCreated by ",
         "color": "gray"
       },
       {

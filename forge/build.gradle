@@ -10,7 +10,7 @@ architectury {
 loom {
 
     forge {
-        mixinConfig "bbs.mixins.json"
+        mixinConfig "mifb.mixins.json"
     }
 }
 

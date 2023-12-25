@@ -2,18 +2,18 @@
   "schema_version": 1,
   "quilt_loader": {
     "group": "${group}",
-    "id": "bbs",
+    "id": "mifb",
     "version": "${version}",
     "metadata": {
-      "name": "Better Block Sounds",
-      "description": "Block sounds, but better!",
+      "name": "Minecraft Isn't For Babies",
+      "description": "A mod to prevent Baby Zombies from spawning",
       "contributors": {
         "Your name here": "Ordana"
       },
       "contact": {
-        "homepage": "https://www.curseforge.com/minecraft/mc-mods/better-block-sounds",
-        "issues": "https://github.com/AstralOrdana/BetterBlockSounds/issues",
-        "sources": "https://github.com/AstralOrdana/BetterBlockSounds"
+        "homepage": "https://modrinth.com/mod/mifb",
+        "issues": "https://github.com/AstralOrdana/mifb/issues",
+        "sources": "https://github.com/AstralOrdana/mifb"
       },
       "icon": "icon.png"
     },
@@ -34,5 +34,5 @@
       }
     ]
   },
-  "mixin": "bbs.mixins.json"
+  "mixin": "mifb.mixins.json"
 }
